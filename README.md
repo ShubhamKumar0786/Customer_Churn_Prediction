@@ -131,6 +131,13 @@ tensorboard
 matplotlib
 streamlit
 scikeras
----------------------------------------------------------------------------------------------------------------------
+
+```
+
+
 📬 Contact
 Feel free to connect or raise an issue if you have suggestions or questions about the project
+- 🌐 [GitHub Profile](https://github.com/ShubhamKumar0786https://github.com/ShubhamKumar0786)  
+- 📧 Email:shubhamkashyap9501@gmail.com
+- LinkedIn: [Linkedin_link](https://www.linkedin.com/in/shubham0786/)
+
